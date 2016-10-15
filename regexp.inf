@@ -1,0 +1,9 @@
+[version]
+    signature="$CHICAGO$"
+    AdvancedINF=2.0
+[Add.Code]
+    regexp.dll=regexp.dll
+[regexp.dll]
+    file-win32-x86=thiscab
+    clsid={E18295AF-0E1C-48a6-90BB-082E5DF4C223}
+    RegisterServer=yes
