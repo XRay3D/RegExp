@@ -28,8 +28,9 @@ DISTFILES += \
     bin/Qt5Widgets.dll \
     bin/RegExp.dll \
     bin/platforms/qwindows.dll \
-    img/Pic (1).PNG \
-    img/Pic (2).PNG \
-    img/Pic (3).PNG \
-    img/Pic (4).PNG \
-    img/Pic (5).PNG
+    img/Pic(1).PNG \
+    img/Pic(2).PNG \
+    img/Pic(3).PNG \
+    img/Pic(4).PNG \
+    img/Pic(5).PNG
+
