@@ -23,13 +23,13 @@ DISTFILES += \
     regexp.def \
     regexp.inf \
     regexp.rc \
-    img/Снимок.PNG \
-    img/Снимок2.PNG \
-    img/Снимок3.PNG \
-    img/Снимок4.PNG \
-    img/Снимок5.PNG \
     bin/Qt5Core.dll \
     bin/Qt5Gui.dll \
     bin/Qt5Widgets.dll \
     bin/RegExp.dll \
-    bin/platforms/qwindows.dll
+    bin/platforms/qwindows.dll \
+    img/Pic (1).PNG \
+    img/Pic (2).PNG \
+    img/Pic (3).PNG \
+    img/Pic (4).PNG \
+    img/Pic (5).PNG
