@@ -4,7 +4,7 @@
 
 Using Qt QRegExp class in Microsoft Office, as QRegExp in Qt familiar than "VBScript RegExp 1.0" or "VBScript RegExp 5.5".
 
-* [RegExp.zip](/bin/RegExp.zip)
+* [RegExp.zip](https://raw.githubusercontent.com/XRay3D/RegExp/master/bin/RegExp.zip)
 
 ![GitHub Logo](/doc/media/Grbl Logo 250px.png)
 ![Excel sheet formula](/img/Pic(1).PNG)
