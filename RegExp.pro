@@ -27,4 +27,9 @@ DISTFILES += \
     img/Снимок2.PNG \
     img/Снимок3.PNG \
     img/Снимок4.PNG \
-    img/Снимок5.PNG
+    img/Снимок5.PNG \
+    bin/Qt5Core.dll \
+    bin/Qt5Gui.dll \
+    bin/Qt5Widgets.dll \
+    bin/RegExp.dll \
+    bin/platforms/qwindows.dll
