@@ -1,8 +1,8 @@
 # RegExp
 
-Использование Qt класса QRegExp в Microsoft Оффисе так как QRegExp в Qt привычнее нежели "VBScript RegExp 1.0" или "VBScript RegExp 5.5".
+Использование Qt класса QRegExp в Microsoft Оффисе, так как QRegExp в Qt привычнее нежели "VBScript RegExp 1.0" или "VBScript RegExp 5.5".
 
-Using Qt QRegExp class in Microsoft Office since QRegExp in Qt familiar to me than "VBScript RegExp 1.0" or "VBScript RegExp 5.5".
+Using Qt QRegExp class in Microsoft Office, as QRegExp in Qt familiar than "VBScript RegExp 1.0" or "VBScript RegExp 5.5".
 
 * [RegExp.zip](/bin/RegExp.zip)
 
